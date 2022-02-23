@@ -6,6 +6,9 @@
 
 Projeto final feito no módulo de Java da instituição <a href="https://itstep.com.br/?gclid=CjwKCAiAsNKQBhAPEiwAB-I5zWAJP3fdeQ0FfrWZ1ngc_IKPnyMqicjH4hF71gsqFLhyvx81wVtSuBoCNj8QAvD_BwE">Step Computer Academy</a>. O projeto consistia em fazer um sistema bancário, com o que foi ensinado durante a matéria de Java SE. No projeto possui Orientação a Objetos, Classes, Métodos, Herança, Polimorfismo, Collections, Exceções, Output, Input de arquivos, Constantes e Enum.
 
+![Step Bank - gif](https://user-images.githubusercontent.com/95040236/155315816-0a32d200-6629-4b43-a923-29cd8acb89ca.gif)
+
+
 ![Badge - Status](https://img.shields.io/badge/Status-Finalizado-brightgreen)
 
 ![Badge - Autoral](https://img.shields.io/badge/Autoral-Sim-brightgreen)
